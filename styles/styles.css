@@ -1,0 +1,153 @@
+body{
+	background-color: rgb(226, 224, 224);
+}
+
+.banner{
+	width: 1100px;
+	height: 200px;
+	margin: 100px auto;
+	text-align: center;
+	color: rgb(226, 224, 224);
+	text-shadow: 3px 3px rgba(40,40,40, .5);
+	font-family: helvetica;
+	font-size: 62px;
+	padding: 20px;
+}
+
+.box1{
+	-webkit-animation: bounce 2.1s ease-in-out infinite;
+	-moz-animation: bounce 2.1s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2);
+	float: left;
+
+}
+
+.box2{
+	-webkit-animation: bounce 2.2s ease-in-out infinite;
+	-moz-animation: bounce 2.2s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(249, 11, 11);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box3{
+	-webkit-animation: bounce 2.3s ease-in-out infinite;
+	-moz-animation: bounce 2.3s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box4{
+	-webkit-animation: bounce 2.4s ease-in-out infinite;
+	-moz-animation: bounce 2.4s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(249, 11, 11);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) ;
+	float: left;
+}
+
+.box5{
+	-webkit-animation: bounce 2.5s ease-in-out infinite;
+	-moz-animation: bounce 2.5s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box6{
+	-webkit-animation: bounce 2.6s ease-in-out infinite;
+	-moz-animation: bounce 2.6s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(249, 11, 11);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box7{
+	-webkit-animation: bounce 2.7s ease-in-out infinite;
+	-moz-animation: bounce 2.7s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box8{
+	-webkit-animation: bounce 2.8s ease-in-out infinite;
+	-moz-animation: bounce 2.8s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(249, 11, 11);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box9{
+	-webkit-animation: bounce 2.9s ease-in-out infinite;
+	-moz-animation: bounce 2.9s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box10{
+	-webkit-animation: bounce 2.10s ease-in-out infinite;
+	-moz-animation: bounce 2.10s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(249, 11, 11);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box11{
+	-webkit-animation: bounce 2.11s ease-in-out infinite;
+	-moz-animation: bounce 2.11s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box12{
+	-webkit-animation: bounce 2.12s ease-in-out infinite;
+	-moz-animation: bounce 2.12s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(249, 11, 11);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+.box13{
+	-webkit-animation: bounce 2.13s ease-in-out infinite;
+	-moz-animation: bounce 2.13s ease-in-out infinite;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(86, 105, 2);
+	box-shadow: 0px 20px 0px rgba (0,0,0,0.2) inset;
+	float: left;
+}
+
+@-webkit-keyframes bounce {
+	50% {-webkit-transform: rotateX(360deg);}
+}
+@-moz-keyframes bounce {
+	50% {-moz-transform: rotateX(360deg);}
+}
